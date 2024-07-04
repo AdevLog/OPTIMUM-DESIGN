@@ -1,4 +1,5 @@
 # OPTIMUM-DESIGN
+Syllabus: https://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0111&sem=2&co_no=RB51801&class_code=
 
 * Golden section method: gs.m
 * Fibonacci method: Fib.m, fibonacci.m
